@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Desarrollador+Backend+Java+%26+Python+%F0%9F%8C%B1;Especialista+en+IA+%26+Big+Data+%F0%9F%A4%96;APIs+REST%2C+Spring+Boot+%26+FastAPI;En+busca+de+mi+primera+oportunidad)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Backend+Engineer+(Java+%26+Python)+%F0%9F%9A%80;AI+%26+Applied+Data+Specialist+%F0%9F%A4%96;Clean+Architecture+%26+Security+%F0%9F%94%92;Open+Source+Maintainer+%F0%9F%93%A6)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandrotacoronte)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alejandrotg.es)
@@ -14,17 +14,30 @@
 
 ## 🚀 Sobre mí
 
-Soy **Alejandro Tacoronte González** ([@alejandrotg-code](https://github.com/alejandrotg-code)), **Desarrollador Backend** especializado en la construcción de APIs REST robustas, escalables y seguras con **Java (Spring Boot 3)** y **Python (FastAPI)**, complementado con una sólida especialización técnica en **Inteligencia Artificial y Big Data**.
+Soy **Alejandro Tacoronte González** ([@alejandrotg-code](https://github.com/alejandrotg-code)), **Desarrollador Backend** e **Ingeniero de Software** enfocado en la construcción de servicios robustos, escalables y seguros con **Java 21 (Spring Boot 3)** y **Python (FastAPI)**, complementado con especialización técnica en **Inteligencia Artificial y Big Data**.
 
 - 🌍 **Ubicación:** Las Palmas de Gran Canaria, España (Disponible para Presencial/Híbrido o 100% Remoto)
-- 💼 **Buscando:** Mi primera oportunidad profesional como Desarrollador Backend / Software Engineer / AI Engineer
-- 🎓 **Formación:** Técnico Superior en DAM + Especialización en IA y Big Data (IES Lomo de la Herradura)
-- 🛠️ **Stack Principal:** Java 21 · Spring Boot 3 · Python · FastAPI · PostgreSQL · Machine Learning
+- 💼 **Perfil:** Backend Developer / Software Engineer / AI Engineer
+- 🎓 **Formación:** DAM + Especialización en IA y Big Data (IES Lomo de la Herradura)
+- 🛠️ **Stack Principal:** Java 21 · Spring Boot 3 · Python · FastAPI · PostgreSQL · Machine Learning · Docker
 - 💭 *"El código limpio y la curiosidad constante transforman problemas complejos en soluciones elegantes."*
 
 ---
 
 ## 🗂️ Proyectos Destacados
+
+### 🇪🇸 verifica-es — PyPI Package, CLI & REST API
+Librería modular para la validación y verificación algorítmica de documentos y formatos oficiales españoles (DNI, NIE, CIF según AEAT, IBAN por módulo 97, Códigos Postales y Matrículas).
+
+[![PyPI](https://img.shields.io/badge/PyPI-v1.1.1-blue.svg)](https://pypi.org/project/verifica-es/)
+[![Zero Dependencies](https://img.shields.io/badge/Dependencies-0%20(Core)-success.svg)](https://github.com/alejandrotg-code/verificaEs)
+[![Tests](https://img.shields.io/badge/Tests-36%20passed-brightgreen.svg)](https://github.com/alejandrotg-code/verificaEs)
+
+- ⚡ **Zero Dependencies:** Motor central y CLI construidos exclusivamente sobre la biblioteca estándar de Python.
+- 🛡️ **Supply Chain Security:** Reducción de superficie de ataque y extras modulares para FastAPI (`verifica-es[api]`).
+- 🧪 **Calidad:** Cobertura de tests unitarios exhaustiva con Pytest.
+
+---
 
 ### 🎮 Game Recommended AI — Plataforma Full-Stack & Análisis NLP
 Plataforma web en producción que audita y analiza masivamente el sentimiento real de las reseñas en español de Steam en tiempo real mediante modelos de Machine Learning.
@@ -132,8 +145,8 @@ Pipeline NLP de preprocesamiento de texto en español y clasificación binaria d
 ## 🎯 Mis Objetivos
 
 - 💼 **Incorporarme a un equipo de desarrollo backend / software engineering.**
-- 🏗️ **Diseñar y desplegar arquitectura de microservicios y sistemas RAG enterprise.**
-- 📚 **Profundizar en Kubernetes, Cloud Computing (AWS) y arquitecturas orientadas a eventos.**
+- 🏗️ **Diseñar y desplegar arquitecturas de microservicios y sistemas RAG enterprise.**
+- 📚 **Profundizar en Kubernetes, Cloud Computing (AWS) y ciberseguridad aplicada al backend.**
 - 🤝 **Conectar con desarrolladores y contribuir a la comunidad open-source.**
 
 ---
