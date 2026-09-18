@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I am **Alejandro Tacoronte González** ([@alejandrotg-code](https://github.com/alejandrotg-code)), a **Backend Developer** and **Software Engineer** focused on building robust, scalable, and secure services with **Java 21 (Spring Boot 3)** and **Python (FastAPI)**, complemented by technical specialization in **Artificial Intelligence and Big Data**.
+I am **Alejandro Tacoronte González** ([@aletgdev](https://github.com/aletgdev)), a **Backend Developer** and **Software Engineer** focused on building robust, scalable, and secure services with **Java 21 (Spring Boot 3)** and **Python (FastAPI)**, complemented by technical specialization in **Artificial Intelligence and Big Data**.
 
 - 🌍 **Location:** Las Palmas de Gran Canaria, Spain (Available for On-site/Hybrid or 100% Remote)
 - 💼 **Role:** Backend Developer / Software Engineer / AI Engineer
