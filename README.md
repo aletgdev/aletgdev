@@ -5,7 +5,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Backend+Engineer+(Java+%26+Python)+%F0%9F%9A%80;AI+%26+Applied+Data+Specialist+%F0%9F%A4%96;Clean+Architecture+%26+Security+%F0%9F%94%92;Open+Source+Maintainer+%F0%9F%93%A6)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandrotacoronte)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alejandrotg.es)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.alejandrotg.es)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandrotacorontegnlez@gmail.com)
 
 </div>
@@ -26,6 +26,20 @@ I am **Alejandro Tacoronte González** ([@aletgdev](https://github.com/aletgdev)
 
 ## 🗂️ Featured Projects
 
+### 🇪🇸 verifica-es — PyPI Package, CLI & REST API
+Modular Python library for algorithmic validation and verification of official Spanish documents and legal identifiers (DNI, NIE, CIF according to AEAT regulations, IBAN via Mod-97, Postal Codes, and Vehicle License Plates).
+
+[![PyPI](https://img.shields.io/badge/PyPI-v1.1.1-blue.svg)](https://pypi.org/project/verifica-es/)
+[![Zero Dependencies](https://img.shields.io/badge/Dependencies-0%20(Core)-success.svg)](https://github.com/alejandrotg-code/verificaEs)
+[![Tests](https://img.shields.io/badge/Tests-36%20passed-brightgreen.svg)](https://github.com/alejandrotg-code/verificaEs)
+[![GitHub Repo](https://img.shields.io/badge/GitHub--Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alejandrotg-code/verificaEs)
+
+- ⚡ **Zero Dependencies:** Core validation algorithms and CLI built strictly on Python's standard library.
+- 🛡️ **Supply Chain Security:** Minimal attack surface with optional decoupled extras for web APIs (`verifica-es[api]`).
+- 🧪 **Quality Assured:** Comprehensive unit test suite with 100% pass rate using Pytest.
+
+---
+
 ### 🛡️ fastapi-security-headers — PyPI Package & High-Performance ASGI Security Middleware
 The missing security headers middleware for FastAPI. Protects web APIs against XSS, Clickjacking, MIME-sniffing, and OWASP Top 10 vulnerabilities with secure-by-default configurations and zero overhead.
 
@@ -41,17 +55,14 @@ The missing security headers middleware for FastAPI. Protects web APIs against X
 
 ---
 
-### 🇪🇸 verifica-es — PyPI Package, CLI & REST API
-Modular Python library for algorithmic validation and verification of official Spanish documents and legal identifiers (DNI, NIE, CIF according to AEAT regulations, IBAN via Mod-97, Postal Codes, and Vehicle License Plates).
+### 🎬 CineMatch — Media Recommendation REST API
+Enterprise backend service platform for personalized movie and TV show recommendations powered by user rating patterns and watchlist history.
 
-[![PyPI](https://img.shields.io/badge/PyPI-v1.1.1-blue.svg)](https://pypi.org/project/verifica-es/)
-[![Zero Dependencies](https://img.shields.io/badge/Dependencies-0%20(Core)-success.svg)](https://github.com/alejandrotg-code/verificaEs)
-[![Tests](https://img.shields.io/badge/Tests-36%20passed-brightgreen.svg)](https://github.com/alejandrotg-code/verificaEs)
-[![GitHub Repo](https://img.shields.io/badge/GitHub--Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alejandrotg-code/verificaEs)
+[![Backend Repo](https://img.shields.io/badge/Backend--Spring--Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/alejandrotg-code/tv-and-movie-db)
 
-- ⚡ **Zero Dependencies:** Core validation algorithms and CLI built strictly on Python's standard library.
-- 🛡️ **Supply Chain Security:** Minimal attack surface with optional decoupled extras for web APIs (`verifica-es[api]`).
-- 🧪 **Quality Assured:** Comprehensive unit test suite with 100% pass rate using Pytest.
+- 🔐 **Security & Auth:** Stateless **JWT** authentication and authorization with **Spring Security**.
+- 🗄️ **Relational Persistence:** **PostgreSQL** managed with **Spring Data JPA / Hibernate** and complex N:M domain mapping.
+- 🌐 **API Integration:** Non-blocking external consumption and metadata synchronization with the official **TMDB API**.
 
 ---
 
@@ -80,16 +91,6 @@ End-to-end Deep Learning pipeline for raw audio preprocessing, feature extractio
 
 ---
 
-### 🎬 CineMatch — Media Recommendation REST API
-Enterprise backend service platform for personalized movie and TV show recommendations powered by user rating patterns and watchlist history.
-
-[![Backend Repo](https://img.shields.io/badge/Backend--Spring--Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/alejandrotg-code/tv-and-movie-db)
-
-- 🔐 **Security & Auth:** Stateless **JWT** authentication and authorization with **Spring Security**.
-- 🗄️ **Relational Persistence:** **PostgreSQL** managed with **Spring Data JPA / Hibernate** and complex N:M domain mapping.
-- 🌐 **API Integration:** Non-blocking external consumption and metadata synchronization with the official **TMDB API**.
-
----
 
 ### 🐦 Spanish Social Sentiment Classifier (X / Twitter)
 Natural Language Processing pipeline for Spanish text sanitation and binary opinion polarity detection.
@@ -148,11 +149,11 @@ Natural Language Processing pipeline for Spanish text sanitation and binary opin
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alejandrotg-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aletgdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrotg-code&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aletgdev&layout=compact&theme=tokyonight&hide_border=true)
 
-![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=alejandrotg-code&theme=tokyonight&hide_border=true)
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=aletgdev&theme=tokyonight&hide_border=true)
 
 </div>
 
